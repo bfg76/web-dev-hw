@@ -1,0 +1,7 @@
+1.  The web is different from the Internet in terms of what they entail. The Internet is the building blocks of the web. It is meant to provide us  with the opportunities to access all of the content on the web. 
+
+2. Internet uses a series of interconnected networks to link the world together electronically.
+
+3. A directory is a place where one can store and organize files, keeping them all together for easy access.
+
+4. A VCS is beneficial because It allows you to access all of the versions of an updated file and be able to make changes to determine which is the best
