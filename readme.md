@@ -1,11 +1,5 @@
-# Assignment 2
+#Assignment 3
 ## Colton Keintz
-I decided to take this class because, as a Media Arts/Digital Filmmaking major, I want to be able to demonstrate proficiency in multiple aspects of online media management, because the world of film is becoming more and more reliant on computers, and the best films of this decade have ample amounts of CGI, and we would be nowhere without the advances that we have made in the past few decades in terms of technology in film. I hope to make a career in filmmaking someday, and I believe that this class is a step towards that.
+Browsers, along with search engines, are the primary method of accessing the information and data stored on the world wide web. Multiple different browsers are often competing to be the best, and they have their own ways of providing the information stored on the web for us to access. Personally, my preferred browsers are Google Chrome and Microsoft Edge
 
-I hope to learn how to manage a web page, explore new forms of web design, and add to my media arts skillset
-
-[World of Warcraft](https://worldofwarcraft.com/en-us/)
-
-[My Responses](./responses.txt)
-
-![My screenshot](./images/screenshot.png)
+A markup language is a way of creating ways to access parts of the web through text. The most commonly used markup language is HTML, and it is a crucial building block for many of the internet's web pages today
